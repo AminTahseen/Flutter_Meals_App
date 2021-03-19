@@ -1,6 +1,6 @@
 # Flutter_meals_app
 
-A new Flutter project.
+A simple flutter project that handles the basic navigation.
 
 ## Getting Started
 
